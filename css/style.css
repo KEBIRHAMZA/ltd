@@ -222,23 +222,6 @@
     z-index: 1;
 }
 
-.team-item:hover .team-text {
-    height: 100%;
-    bottom: 0;
-}
-
-.team-social {
-    position: absolute;
-    transition: .1s;
-    transition-delay: .0s;
-    opacity: 0;
-}
-
-.team-item:hover .team-social {
-    transition-delay: .3s;
-    opacity: 1;
-}
-
 .bg-testimonial {
     background: url(../img/testimonial.jpg) top left no-repeat;
     background-size: contain;
@@ -333,4 +316,7 @@
     max-width: 600px;
     margin: 0 auto;
     font-size: 20px;
+}
+#li{
+    color: #000000;
 }
