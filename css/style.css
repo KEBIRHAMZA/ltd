@@ -320,3 +320,14 @@
 #li{
     color: #000000;
 }
+.image-size{
+    height: 400px;
+    width: 400px;
+}
+.tag-button{
+    border-radius: 10px;
+    background-color: var(--secondary);
+    border: var(--secondary);
+    padding: 10px;
+    color: #F2F2F2;
+}
